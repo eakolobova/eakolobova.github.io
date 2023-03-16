@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Персональный | Academic</title>
+    <link>https://example.com/tag/%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B8/</link>
+      <atom:link href="https://example.com/tag/%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <description>Персональный</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Персональный</title>
+      <link>https://example.com/tag/%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B8/</link>
+    </image>
+    
+    <item>
+      <title>Пост по прошедшей неделе</title>
+      <link>https://example.com/post/last-week-post/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last-week-post/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Несмотря на преследующий неотступно ужас, вызываемый лишь взглядом на жизнь, обнаженную на страницах социальных сетей и персональных блогов, писать посты неизвестной тематики все же приходится, хотя бы во имя непрекращающейся личной борьбы каждого человека с тревогами, преследующими ежедневно его  и загоняющими в воображаемые рамки, становящиеся тесными и некомфортными спустя столь смехотворный промежуток времени, что поражает воображение лишь факт того, сколько люди могут жить под гнетом своего страха. Но иной выбор сулит последствия, не сопоставимые с минутами, проведенными за попытками выжать из себя лишенные смысла строки. А поэтому прошедшая неделя будет наполнена тщетными усилиями вылепить из себя хоть что-то, достойное толики признания общества, путем упорной учебы и развития в далеких от основной сферы деятельности, но необходимых современному человеку областях. И приступами графомании, конечно. Я совершенно не представляю, что можно писать в постах.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
